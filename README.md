@@ -19,6 +19,6 @@ $ npm start
 ``` shell
 $ npm install -g json-server
 $ npx json-server --watch data/db.json --port 8000
-# See jason data in http://localhost:8000/blogs
+# See json data in http://localhost:8000/blogs
 ```
 
