@@ -1,6 +1,6 @@
 # blog-react
 
-A blog app with multiple pages built in React using Json-server as database.
+Multi-page blog app built with React using Json-server as a database.
 
 ### To clone the repo
 ```shell
